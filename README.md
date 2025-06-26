@@ -47,5 +47,3 @@
 > **File liên quan:** `bai1-5.ipynb`
 
 
-### Bài lab2 
-- Folder Lab 2 ---> lab2.ipynb
